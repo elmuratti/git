@@ -23,3 +23,9 @@ body{
 h1 {
     margin: 5vw;
 }
+
+#timer {
+    font-size: 6vh;
+    padding: 5vh;
+    text-align: center;
+}
